@@ -1,0 +1,37 @@
+body{
+    background-color: #FAFAFA;
+    margin: 0;
+}
+nav{
+    background-color: #fff;
+    height: 3.3em;
+    line-height:3.3em;
+    padding: 0 13.5em;
+    border-bottom: 0.1px solid #DBDBDB;
+}
+.logo{
+    text-decoration: none;
+}
+.logo.img{
+    vertical-align: middle;
+}
+.search{
+    background-color: #FAFAFA;
+    margin-left: 19em;
+    height: 1.9em;
+    width: 15.5em;
+    border: 1px solid #DBDBDB;
+}
+.search::placeholder{
+    text-align: center;
+    color: #808080;
+}
+.nav-links{
+    margin-left: 8em;
+}
+.nav-links>a{
+    margin-left: 1em;
+}
+.nav-links i{
+    transform: scale(1.6em);
+}
