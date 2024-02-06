@@ -21,7 +21,7 @@ body {
     line-height: 3.3em;
     width: 100%;
     border-bottom: 0.1em solid #dbdbdb;
-    grid-template-columns: 2fr 1fr 1fr 0.5fr;
+    grid-template-columns: 1fr 2fr 0.8fr;
   }
   
   .logo {
@@ -38,7 +38,7 @@ body {
     background: #fafafa;
     height: 2em;
     margin: 0.8em;
-    width: 800px;
+    width: 99%;
     border: 0.07em solid #dbdbdb;
     border-radius: 0.2em;
   }
